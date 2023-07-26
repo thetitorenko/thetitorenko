@@ -1,16 +1,21 @@
-### Hi there 👋
+# <center>Hi there, I'm Nikita
 
-<!--
-**thetitorenko/thetitorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science learner, currently focusing on classic machine learning techniques. My skill set includes Python, SQL, sklearn, pandas, scipy, seaborn, and more. I'm always eager to learn new techniques and tools to enhance my data science skills.
 
-Here are some ideas to get you started:
+## 🧪 I'm currently working on
+- My ML skill and education materials
+- My old/current job projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 My Skills and Experiences
+
+- **Languages:** Python, SQL, markdown, HTML/CSS
+- **Libraries & Frameworks:** pandas, sklearn, scipy, seaborn, plotly
+- **Tools:** Git, Docker, VScode
+
+
+## ⚡ Fun Facts
+
+- I love playing horror games on Xbox.
+- I'm a GTD hater and a proud Pomodoro Technique ambassador.
+- I'm a fan of sci-fi books and movies.
