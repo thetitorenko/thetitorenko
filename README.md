@@ -1,21 +1,20 @@
 # <center>Hi there, I'm Nikita
 
-I'm a data science learner, currently focusing on classic machine learning techniques. My skill set includes Python, SQL, sklearn, pandas, scipy, seaborn, and more. I'm always eager to learn new techniques and tools to enhance my data science skills.
+Experienced low-voltage systems design engineer from Almaty with 14 years of professional expertise. Throughout my career, I have successfully completed projects in transport infrastructure and network systems. Currently, I am dedicated to designing Data centers, considering cutting-edge technologies and requirements for reliability and fault tolerance. Moreover, I have recently delved into the realm of machine learning, with a particular emphasis on computer vision. This newfound passion complements my professional background, and I am actively looking to apply its potential in both ongoing and future projects.
 
-## 🧪 I'm currently working on
-- My ML skill and education materials
-- My old/current job projects
-
-
-## 🌱 My Skills and Experiences
-
-- **Languages:** Python, SQL, markdown, HTML/CSS
-- **Libraries & Frameworks:** pandas, sklearn, scipy, seaborn, plotly
-- **Tools:** Git, Docker, VScode
+## 🧪 Present
+I currently work in the project department at Transtelecom, specializing in low-voltage systems and automation. Main job skills:
+- Data centers design (Uptime [ATD4571](https://uptimeinstitute.com/images/1_ATX_Foils_Invoices_License/foils/ATD/2022/ATD-E-21175_11-13_April_2022/FOIL_ATD4571_Titorenko_220413.png))
+- Low voltage systems design
+- CAD/BIM
 
 
-## ⚡ Fun Facts
+## 🌱 Data scientist (in progress)
+I have recently delved into the realm of machine learning, with a particular emphasis on computer vision. This newfound passion complements my professional background, and I am actively looking to apply its potential in both ongoing and future projects. Current data scientist skills:
+- Python
+- NumPy & Scikit-learn
+- Seaborn & Plotly
+- SQL & PostgreSQL
+- DevOps (Git/Docker/Linux)
 
-- I love playing horror games on Xbox.
-- I'm a GTD hater and a proud Pomodoro Technique ambassador.
-- I'm a fan of sci-fi books and movies.
+For more details, see [CV](https://thetitorenko.github.io/thetitorenko/).
