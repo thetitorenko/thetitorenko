@@ -7,7 +7,7 @@ contact:
   email: ntitorenko@gmail.com
   github: thetitorenko
   # linkedin:
-  # phone: 
+  phone: @thetitorenko
   # gitlab: 
   # twitter: 
 
@@ -24,12 +24,16 @@ education:
     time: 2010-2012
     university: International IT University (MUIT)
 
+  - degree: Data scientist (in progress)
+    time: 2022-now
+    university: SkillFactory
+
 skills:
   - category: Main job
     skill: 
       - Data centers design
       - Uptime ATD4571
-      - LW systems design
+      - Low voltage systems design
       - CAD/BIM
   - category: Data science
     skill:
@@ -37,22 +41,22 @@ skills:
       - NumPy & Scikit-learn
       - Seaborn & Plotly
       - SQL & PostgreSQL
-      - Git
-      - Docker
-      - Linux
+      - DevOps (Git/Docker/Linux)
   - category: Other
     skill:
       - Web (HTML/CSS/JS)
       - Electronics
-      - Running
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Experienced low-voltage systems design engineer with 14 years of professional expertise.
+  Throughout my career, I have successfully completed projects in transport infrastructure
+  and network systems. Currently, I am dedicated to designing data processing centers,
+  considering cutting-edge technologies and requirements for reliability and resilience.
+  Moreover, I have recently delved into the realm of machine learning, with a particular
+  emphasis on computer vision. This newfound passion complements my professional background,
+  and I am actively exploring its potential for optimization and innovation in both ongoing
+  and future projects.
 
 # Experience
 experience:
