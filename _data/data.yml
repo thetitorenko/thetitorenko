@@ -79,9 +79,9 @@ experience:
     details: |
       Currently, I am part of the project department at Transtelecom. My primary focus is on designing
       low-voltage systems and automation. Among my significant achievements is my involvement in the
-      design and subsequent certification of a Tier III data center for JSC "NITEC" in Astana through
-      the Uptime University. Additionally, I've played an instrumental role in projects such as the
-      Wi-Fi network for Almaty's metro and several others. I am also actively engaged in presentations
+      design and subsequent certification of a Uptime Institute Tier III data center for JSC "NITEC". 
+      Additionally, I've played an instrumental role in projects such as the Wi-Fi network for Almaty's
+      subway and several others. I am also actively engaged in presentations
       and preparing commercial proposals for potential clients.
     # technologies_used: | 
     #   Python, Tensorflow, Keras, Matlab
@@ -101,14 +101,16 @@ projects:
   - title: Arkalyk-Shubarkol railway line
     link: https://uic.org/com/enews/nr/414/article/ktz-kazakhstan-information-about
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      The 214 km long railway with five new stations provides the shortest transit route between Europe
+      and Asia. This corridor strengthens trade ties and boosts the economic development of the regions
+      it passes through.
 
-  - title: Cool Project 
-    link: #
+  - title: JSC "NITEC" Tier III data center
+    link: https://uptimeinstitute.com/component/tierachievement/datacenter/nitec-data-center/1766
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      A Tier III Data Center with a capacity of 3MW consists of three server halls. The facility houses
+      200 server racks placed in cold aisle containment system. Diesel rotary UPS systems are employed
+      for uninterrupted power, while chillers are used for climate control.
 
 # Volunteering
 # volunteering:
