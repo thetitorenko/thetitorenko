@@ -12,11 +12,11 @@ contact:
   # twitter: 
 
 languages:
-  - idiom: English
+  - idiom: English (B2)
   - idiom: Russian
 
 education:
-  - degree: BSc in Radio-electronic&Telecom
+  - degree: BSc in Radio & Telecom
     time: 2006-2009
     university: Satbayev University (KazNRTU)
 
@@ -27,17 +27,24 @@ education:
 skills:
   - category: Main job
     skill: 
-      - Data centers design (Uptime ATD4571)
+      - Data centers design
+      - Uptime ATD4571
       - LW systems design
       - CAD/BIM
   - category: Data science
     skill:
-      - React
-      - Typescript
+      - Python
+      - NumPy & Scikit-learn
+      - Seaborn & Plotly
+      - SQL & PostgreSQL
+      - Git
+      - Docker
+      - Linux
   - category: Other
     skill:
-      - Web
-      - Kubernetes 
+      - Web (HTML/CSS/JS)
+      - Electronics
+      - Running
 
 # Profile
 profile: |
@@ -73,16 +80,16 @@ experience:
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+# publications:
+#   - title: Random title of paper. An interesting one.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference, 2016
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+#   - title: Second title of paper. An interesting one too.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference again, 2018
 
 projects:
   - title: Cool Project 
@@ -98,11 +105,11 @@ projects:
       tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# volunteering:
+#   - time: 2020-Present
+#     role: PR Manager
+#     company: Some random organization
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
