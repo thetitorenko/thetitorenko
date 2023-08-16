@@ -1,42 +1,42 @@
-name: John Doe
+name: Nikita Titorenko
 support_dark_mode: true
-fork: true
+# fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: ntitorenko@gmail.com
+  github: thetitorenko
+  # linkedin:
+  # phone: 
+  # gitlab: 
+  # twitter: 
 
 languages:
   - idiom: English
   - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BSc in Radio and Electronic Engineering and Telecommunications
+    time: 2006-2009
+    university: Satbayev University (KazNRTU)
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: MSc in Information systems
+    time: 2010-2012
+    university: International IT University (MUIT)
 
 skills:
-  - category: Backend
+  - category: Main job
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Data centers design (<a href="{{https://uptimeinstitute.com/images/1_ATX_Foils_Invoices_License/foils/ATD/2022/ATD-E-21175_11-13_April_2022/FOIL_ATD4571_Titorenko_220413.png}}">Uptime ATD4571</a>)
+      - LW systems design
+      - CAD/BIM
+  - category: Data science
     skill:
       - React
       - Typescript
-  - category: DevOps
+  - category: Other
     skill:
-      - Docker
+      - Web
       - Kubernetes 
 
 # Profile
