@@ -16,7 +16,7 @@ languages:
   - idiom: Russian
 
 education:
-  - degree: BSc in Radio and Electronic Engineering and Telecommunications
+  - degree: BSc in Radio-electronic&Telecom
     time: 2006-2009
     university: Satbayev University (KazNRTU)
 
@@ -27,7 +27,7 @@ education:
 skills:
   - category: Main job
     skill: 
-      - Data centers design (<a href="{{https://uptimeinstitute.com/images/1_ATX_Foils_Invoices_License/foils/ATD/2022/ATD-E-21175_11-13_April_2022/FOIL_ATD4571_Titorenko_220413.png}}">Uptime ATD4571</a>)
+      - Data centers design (Uptime ATD4571)
       - LW systems design
       - CAD/BIM
   - category: Data science
