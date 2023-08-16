@@ -35,7 +35,7 @@ skills:
       - Uptime ATD4571
       - Low voltage systems design
       - CAD/BIM
-  - category: Data science
+  - category: Data scientist
     skill:
       - Python
       - NumPy & Scikit-learn
@@ -67,7 +67,7 @@ experience:
       successful companies, where I managed the complete cycle of work as a low-voltage systems design
       engineer. My expertise spans every step of the process: from site surveys and project development
       to coordinating with clients and subsequent expert reviews. A highlight of my professional
-      journey is my involvement in designing the "Arkalyk-Shubarkol" railway line. Additionally, I take
+      journey is my involvement in designing the new Arkalyk-Shubarkol railway line. Additionally, I take
       pride in my contributions to numerous data transmission network modernization projects for leading
       companies such as Kazakhtelecom, Tele2, and Kcell.
     # technologies_used: | 
@@ -77,13 +77,14 @@ experience:
     time: 2021-Present
     company: Transtelecom JSC (ttc.kz)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Currently, I am part of the project department at Transtelecom. My primary focus is on designing
+      low-voltage systems and automation. Among my significant achievements is my involvement in the
+      design and subsequent certification of a Tier III data center for JSC "NITEC" in Astana through
+      the Uptime University. Additionally, I've played an instrumental role in projects such as the
+      Wi-Fi network for Almaty's metro and several others. I am also actively engaged in presentations
+      and preparing commercial proposals for potential clients.
+    # technologies_used: | 
+    #   Python, Tensorflow, Keras, Matlab
 
 # publications:
 #   - title: Random title of paper. An interesting one.
@@ -97,8 +98,8 @@ experience:
 #     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Arkalyk-Shubarkol railway line
+    link: https://uic.org/com/enews/nr/414/article/ktz-kazakhstan-information-about
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
