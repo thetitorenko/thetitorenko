@@ -25,7 +25,7 @@ education:
     university: International IT University (MUIT)
 
   - degree: Data scientist (in progress)
-    time: 2022-now
+    time: 2022-Present
     university: SkillFactory
 
 skills:
@@ -49,32 +49,33 @@ skills:
 
 # Profile
 profile: |
-  Experienced low-voltage systems design engineer with 14 years of professional expertise.
+  Experienced low-voltage systems design engineer from Almaty with 14 years of professional expertise.
   Throughout my career, I have successfully completed projects in transport infrastructure
-  and network systems. Currently, I am dedicated to designing data processing centers,
-  considering cutting-edge technologies and requirements for reliability and resilience.
+  and network systems. Currently, I am dedicated to designing Data centers,
+  considering cutting-edge technologies and requirements for reliability and fault tolerance.
   Moreover, I have recently delved into the realm of machine learning, with a particular
   emphasis on computer vision. This newfound passion complements my professional background,
-  and I am actively exploring its potential for optimization and innovation in both ongoing
-  and future projects.
+  and I am actively looking to apply its potential in both ongoing and future projects.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: LV systems design engineer
+    time: 2009-2021
+    company: Instranscom, NIITK, ARLAN-SI
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Throughout my extensive career, I have had the privilege to work with several of Kazakhstan's
+      successful companies, where I managed the complete cycle of work as a low-voltage systems design
+      engineer. My expertise spans every step of the process: from site surveys and project development
+      to coordinating with clients and subsequent expert reviews. A highlight of my professional
+      journey is my involvement in designing the "Arkalyk-Shubarkol" railway line. Additionally, I take
+      pride in my contributions to numerous data transmission network modernization projects for leading
+      companies such as Kazakhtelecom, Tele2, and Kcell.
+    # technologies_used: | 
+    #   Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: LV systems design engineer and Data center designer
+    time: 2021-Present
+    company: Transtelecom JSC (ttc.kz)
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
